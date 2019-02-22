@@ -3,9 +3,8 @@ layout: post
 title:  "Learning grok patterns"
 date:   2019-02-22 14:10:51 +0800
 categories: Ops
-tags: Ops, grok, akamai, logstash
-description: This posts contains how I learnt grok patterns by writing one for
-akamai log
+tags: Ops
+description: This posts contains how I learnt grok patterns by writing one for akamai log
 ---
 
 The ability to query data being shipped to ELK stacks depends on the data being
